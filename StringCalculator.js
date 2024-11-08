@@ -67,13 +67,13 @@ class StringCalculator {
 
 }
 
-console.log("Input: “”, Output: 0", StringCalculator.add(""))
-console.log("Input: “1”, Output: 1", StringCalculator.add("1"))
-console.log("Input: “1,5”, Output: 6", StringCalculator.add("1,5"))
-console.log("Allow the add method to handle any amount of numbers", StringCalculator.add("1,5,1,1,2,1,51,100"))
-console.log("Allow the add method to handle new lines between numbers (instead of commas)", StringCalculator.add("1\n2,3"))
-console.log("To change the delimiter, the beginning of the string will contain a separate line that looks like this", StringCalculator.add("//;\n1;2"))
-console.log("Calling add with a negative number will throw an exception:", StringCalculator.add("//;\n1;-2"))
+// console.log("Input: “”, Output: 0", StringCalculator.add(""))
+// console.log("Input: “1”, Output: 1", StringCalculator.add("1"))
+// console.log("Input: “1,5”, Output: 6", StringCalculator.add("1,5"))
+// console.log("Allow the add method to handle any amount of numbers", StringCalculator.add("1,5,1,1,2,1,51,100"))
+// console.log("Allow the add method to handle new lines between numbers (instead of commas)", StringCalculator.add("1\n2,3"))
+// console.log("To change the delimiter, the beginning of the string will contain a separate line that looks like this", StringCalculator.add("//;\n1;2"))
+// console.log("Calling add with a negative number will throw an exception:", StringCalculator.add("//;\n1;-2"))
 
 
 
