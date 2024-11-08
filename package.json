@@ -1,7 +1,7 @@
 {
   "name": "incubyteassignment",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "StringCalculator.js",
   "scripts": {
     "test": "jest"
   },
