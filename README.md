@@ -2,6 +2,11 @@
 
 This project includes a simple String Calculator developed using the Test-Driven Development (TDD) approach. The calculator can add numbers from a string format, handle custom delimiters, newline characters, and reject negative numbers.
 
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/5cefb61a-3e03-4831-8bc0-f5eff79b5ae2">
+
+
+
+
 
 *** Project Structure ***
 StringCalculator.js - Contains the main logic for the String Calculator. 
@@ -43,3 +48,7 @@ yarn
 3. Run Tests
 This project uses Jest as the testing framework. To run the tests, use the following command:
 yarn test
+
+
+
+
