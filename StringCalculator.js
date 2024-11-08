@@ -60,7 +60,6 @@ class StringCalculator {
             throw new Error(`Negative numbers not allowed: ${negatives.join(", ")}`);
         }
         // return sum of product of an array
-        console.log(this.sumOfNumber(convertIntoNumber))
         return this.sumOfNumber(convertIntoNumber);
 
     }
